@@ -1,2 +1,2 @@
-# DC-sir-Robotic-Arm
-Robotic arm
+# robot-arm-neuralnet
+This repository has code of Robotic arm simulation 
